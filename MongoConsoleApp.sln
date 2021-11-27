@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoConsoleApp", "MongoConsoleApp.csproj", "{D55ED5CE-4408-470D-8526-E15F639FBC77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D55ED5CE-4408-470D-8526-E15F639FBC77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D55ED5CE-4408-470D-8526-E15F639FBC77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D55ED5CE-4408-470D-8526-E15F639FBC77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D55ED5CE-4408-470D-8526-E15F639FBC77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E44207B6-D872-40F6-8ACE-721861B97228}
+	EndGlobalSection
+EndGlobal
